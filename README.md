@@ -1,5 +1,27 @@
 # Candy crush like game made with Phaser HTML5 game engine
 
+## 抖音开放平台
+
+- 仓库：ceenads/product-app-cocos-candy-crush
+- 抖音小游戏名称：甜果消除乐园
+- AppID：ttccfbba46529f144302
+- 当前状态：基础信息已保存草稿，待上传版本和资质
+- 创建日期：2026-06-14
+- 开发引擎：普通小游戏引擎(Cocos/Laya/Egret/Godot/其他)
+- 平台图标：抖音上架材料/icon-600.png
+- 小游戏分类：休闲益智 / 消除
+- 题材标签：美食
+
+## 软著信息
+
+- 软件全称：甜果消除乐园游戏软件 V1.0
+- 软件简称：甜果消除乐园
+
+## 提交记录
+
+2026-06-14：抖音开放平台创建流程已接受名称“甜果消除乐园”，生成 AppID `ttccfbba46529f144302`。
+2026-06-14：基础信息已在抖音开放平台保存为草稿，分类为“休闲益智 / 消除”，题材标签为“美食”，图标使用 `抖音上架材料/icon-600.png`。
+
 ## About this game
 One day I found very interesting blog post by [Matthijs Hollemans](http://www.raywenderlich.com/66877/how-to-make-a-game-like-candy-crush-part-1)
 In this tutorial Matthijs Hollemans shows how to create Candy Crush like game in Object-C language. I readed his article and decided to rewrite this game using Phaser HTML5 game engine. I also used typescript language, because it gives a lot of advantages comparing to ES5 javascript. AngularJs is used only for creating game directive, so it can be easily included in angular app.
